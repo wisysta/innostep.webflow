@@ -4400,6 +4400,10 @@ figcaption {
   text-align: center;
 }
 
+.text-center.mg-bottom-32px {
+  margin-bottom: 40px;
+}
+
 .text-center.mobile-l {
   text-align: left;
 }
